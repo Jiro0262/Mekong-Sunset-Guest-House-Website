@@ -1,4 +1,4 @@
-# 🪷 Lotus House — Site Maison d'Hôtes Cambodge
+# 🪷 Mekong Sunset Guest House — Site Maison d'Hôtes Cambodge
 
 Site statique HTML/CSS/JS — aucune dépendance, aucun build requis.
 
