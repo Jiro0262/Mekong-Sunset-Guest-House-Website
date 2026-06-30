@@ -1,0 +1,27 @@
+:root {
+  --color-gold:        #C9A84C;
+  --color-gold-light:  #E8C96A;
+  --color-rust:        #8B3A2A;
+  --color-rust-light:  #B85C44;
+  --color-cream:       #F5EFE0;
+  --color-cream-dark:  #EDE4CC;
+  --color-green:       #2D4A3E;
+  --color-green-light: #3D6455;
+  --color-sand:        #D4C5A9;
+  --color-ink:         #1A1208;
+  --color-telegram:    #25D366;
+  --font-display: 'Cinzel', serif;
+  --font-body:    'Cormorant Garamond', serif;
+  --font-ui:      'Jost', sans-serif;
+  --space-1: 0.25rem; --space-2: 0.5rem; --space-3: 0.75rem; --space-4: 1rem;
+  --space-6: 1.5rem; --space-8: 2rem; --space-12: 3rem; --space-16: 4rem; --space-24: 6rem;
+  --max-width: 1100px; --radius: 4px;
+  --shadow-sm: 0 2px 8px rgba(0,0,0,.06);
+  --shadow-md: 0 6px 24px rgba(0,0,0,.12);
+  --shadow-lg: 0 16px 48px rgba(0,0,0,.18);
+  --transition-fast: 150ms ease; --transition-normal: 300ms ease;
+  --transition-slow: 600ms cubic-bezier(.25,.46,.45,.94);
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+}
