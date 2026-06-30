@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /assets/js/config.js
-
-Sitemap: https://lotushouse-cambodia.com/sitemap.xml
